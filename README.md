@@ -1,19 +1,16 @@
-# Stateful Click Counter
+# Flutter Softmax Calculator
 
-A new Flutter project created with FlutLab - https://flutlab.io
+An intuitive Flutter app for computing softmax probabilities from a set of input values. Designed for simplicity and ease of use with a clean interface.
 
-## Getting Started
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Enter values and calculate softmax probabilities instantly.
+- Minimalist UI with rounded inputs and highlighted results.
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## Quick Start
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the repo, run `flutter pub get`, and then `flutter run` to start the app on your device or emulator.
 
-## Getting Started: FlutLab - Flutter Online IDE
+## Preview
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![Softmax Calculator Screenshot](screenshots/screen-shot.jpg)
